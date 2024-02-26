@@ -1,0 +1,34 @@
+{
+  "profiles": [
+    {
+      "id": 0,
+      "name": "Sophia Anderson",
+      "age": 29
+    },
+    {
+      "id": 1,
+      "name": "David Wilson",
+      "age": 33
+    },
+    {
+      "id": 2,
+      "name": "Olivia Taylor",
+      "age": 25
+    },
+    {
+      "id": 3,
+      "name": "Ethan Brown",
+      "age": 37
+    },
+    {
+      "id": 4,
+      "name": "Isabella García",
+      "age": 31
+    },
+    {
+      "id": 5,
+      "name": "Michael Lee",
+      "age": 24
+    }
+  ]
+}
